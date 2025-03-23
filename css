@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Musta tausta */
+    color: #fff; /* Valkoinen teksti */
+    margin: 20px;
+    padding: 20px;
+}
+
+form {
+    width: 50%;
+    background: #111; /* Tumma harmaa tausta lomakkeelle */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+fieldset {
+    border: 1px solid #fff; /* Valkoinen reuna */
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+legend {
+    font-weight: bold;
+    color: #fff;
+}
+
+.form-group {
+    margin
